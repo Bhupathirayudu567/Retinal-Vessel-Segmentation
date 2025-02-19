@@ -109,9 +109,8 @@ The model achieves the following segmentation performance on the **DRIVE dataset
 
 ## ✨ Author
 - **Bhupathi Rayudu**  
-  📧 [Your Email]  
+  📧 [bhupathirayudu567@gmail.com]  
   🔗 [GitHub Profile](https://github.com/Bhupathirayudu567)
 
 ---
 
-📅 **Now just copy and paste this into your GitHub repository's README.md file!** 🚀
