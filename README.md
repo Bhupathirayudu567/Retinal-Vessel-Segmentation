@@ -8,3 +8,13 @@ The model is trained on the **DRIVE dataset**:
 - The dataset consists of **40 retinal images** (20 training + 20 testing) along with **manual annotations**.
 
 ## 📁 Project Structure
+📂 Retinal-Vessel-Segmentation/ │
+── 📜 data.py # Loads and augments the dataset │
+── 📜 model.py # Defines the U-Net model 
+│── 📜 train.py # Training script │
+── 📜 eval.py # Model evaluation & metrics calculation │
+── 📜 metrics.py # Custom metrics (IoU, Dice Coefficient) │
+── 📜 README.md # Project documentation │
+── 📜 requirements.txt # Python dependencies │
+── 📂 new_data/ # Processed images and masks │
+── 📂 results/ # Model predictions and results
