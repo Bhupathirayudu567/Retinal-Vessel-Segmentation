@@ -99,10 +99,7 @@ The model achieves the following segmentation performance on the **DRIVE dataset
 | Precision| 0.88   |
 
 ### Example Segmentation Output:
-| **Original** | **Ground Truth** | **Predicted** |
-|-------------|-----------------|--------------|
-| ![Original](results/sample1.png) | ![GT](results/sample1_gt.png) | ![Predicted](results/sample1_pred.png) |
-
+ results/01_test.png
 ## 📌 References
 - **U-Net Paper:** [Ronneberger et al., 2015](https://arxiv.org/abs/1505.04597)
 - **DRIVE Dataset:** [Kaggle](https://www.kaggle.com/datasets/zionfuo/drive2004)
